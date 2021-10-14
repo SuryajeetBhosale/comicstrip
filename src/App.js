@@ -42,7 +42,7 @@ function App() {
     },
     {
       gameName: "HALO",
-      gameImg: "halo.jpg",
+      gameImg: "halo.webp",
     },
   ];
   return (
